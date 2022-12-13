@@ -1,0 +1,20 @@
+.github
+src
+test
+.gitignore
+
+# Tools
+.husky
+.eslintignore
+.eslintrc.json
+.lintstagedrc.json
+.prettierignore
+rollup.config.js
+tsconfig.json
+vitest.config.ts
+
+# Ide
+.vscode
+
+# Dev tarballs
+is-it-url*

@@ -1,0 +1,8 @@
+dist
+node_modules
+
+# Ide
+.vscode
+
+# Dev tarballs
+is-it-url*
